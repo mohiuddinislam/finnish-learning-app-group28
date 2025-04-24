@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252797029728",
+    "project_id": "finnish-learning-app-ba601",
+    "storage_bucket": "finnish-learning-app-ba601.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252797029728:android:b57c39cc1a97c45f8be205",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOJnVcPiZYneZvNcch3y8gJft23vhU6uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
